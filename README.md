@@ -24,3 +24,4 @@ I aim to make everything here **TRUE**:
 - [chihuyen ML interview book](https://github.com/chiphuyen/ml-interviews-book)
 - [google use AI to prep interview](https://grow.google/certificates/interview-warmup/)
 - [Machine Learning Design Crack ML Interview book](https://mlengineer.io/)
+- [Code First Review on NLP, Transformer, CV]( https://github.com/dair-ai/ML-Notebooks#nlp)
